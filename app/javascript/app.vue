@@ -13,6 +13,7 @@ export default {
   },
   methods: {
     reverseMessage: function () {
+      debugger
       this.message = this.message.split('').reverse().join('')
     }
   }
