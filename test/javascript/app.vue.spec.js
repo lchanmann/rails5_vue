@@ -5,4 +5,10 @@ describe("app.vue", () => {
     const wrapper = shallowMount(App)
     expect(wrapper.text()).toEqual('Hello Vue!')
   })
+
+  it("reverse message text", () => {
+    const wrapper = shallowMount(App)
+    wrapper.vm.reverseMessage()
+    expect(wrapper.text()).toEqual('!euV olleH')
+  })
 })
