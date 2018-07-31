@@ -1,6 +1,9 @@
 {
   "name": "myapp",
   "private": true,
+  "scripts": {
+    "test": "NODE_ENV=test karma start"
+  },
   "dependencies": {
     "@rails/webpacker": "3.5",
     "vue": "^2.5.16",
