@@ -1,24 +1,3 @@
-# README
+# Setting up Rails 5 - Vue.js application testing
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://medium.com/lchanmann/setting-up-rails-5-vue-js-application-testing-d7213a83b55b
